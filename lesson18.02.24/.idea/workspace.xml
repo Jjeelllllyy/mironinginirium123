@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f59e903-2917-4e66-bb52-199e387208c6" name="Changes" comment="" />
+    <list default="true" id="05a28fb3-0fce-4a90-b3e5-f76c804d0a80" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +13,15 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2bu07N4QPrnw1LDikPUcFRmI1c6" />
+  <component name="ProjectId" id="2cXcVZHNcG2dSxpMSAg7QtHSAeF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
-  }
-}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Lessom04.02.24" />
+      <module name="lesson18.02.24" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -51,11 +45,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9f59e903-2917-4e66-bb52-199e387208c6" name="Changes" comment="" />
-      <created>1707049487292</created>
+      <changelist id="05a28fb3-0fce-4a90-b3e5-f76c804d0a80" name="Changes" comment="" />
+      <created>1708261387907</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1707049487292</updated>
+      <updated>1708261387907</updated>
     </task>
     <servers />
   </component>
